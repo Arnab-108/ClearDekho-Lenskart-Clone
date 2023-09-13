@@ -57,7 +57,7 @@
         <li><a href="https://github.com/RutuvikP">@Rutuvik Patil</a></li>
    <li><a href="https://github.com/AkshayKumarGaurav">@Akshay Kumar Gaurav</a></li>
    <li><a href="https://github.com/lokeshchoudharyprogrammer">@Lokesh Choudhary</a></li>
-  <li><a href="https://github.com/Arnab-108">@Arnab Adhikary</a></li>
+  <li><a href="https://github.com/Arnab-108">@Arnab Adhikary</a> Responsible For :- Product Page , Single Product Page , Cart Page , Payment Page (Frontend)</li>
   <li><a href="https://github.com/VivekKumar2380">@Vivek Kumar</a></li>
  
    
